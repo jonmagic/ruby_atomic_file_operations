@@ -1,0 +1,11 @@
+test_name,MB,ms
+open-lock-write,1,0
+open-lock-write,2,1
+open-lock-write,4,3
+open-lock-write,8,8
+open-lock-write,16,15
+open-lock-write,32,32
+open-lock-write,64,60
+open-lock-write,128,128
+open-lock-write,256,256
+open-lock-write,512,729

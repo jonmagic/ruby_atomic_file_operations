@@ -1,0 +1,11 @@
+test_name,MB,ms
+write-move,1,0
+write-move,2,1
+write-move,4,1
+write-move,8,1
+write-move,16,1
+write-move,32,2
+write-move,64,4
+write-move,128,8
+write-move,256,16
+write-move,512,30
