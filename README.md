@@ -42,5 +42,3 @@ Please note this also updates the results tables in this README.
 | write-move | 128 | 8  |
 | write-move | 256 | 16 |
 | write-move | 512 | 30 |
-
-t
